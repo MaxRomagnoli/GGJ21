@@ -10,7 +10,7 @@ In this game you have to rescue your bagages at all costs.
 - [Max Romagnoli](https://www.maxromagnoli.com) (programming)
 - Miriam Mariani (design)
 
-# Platforms: 
+## Platforms: 
 - MS Windows
 
 ## Tools And Technologies:
