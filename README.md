@@ -2,7 +2,7 @@
 
 ## Theme: Lost and Found
 
-## Title: Lost Airlines
+## Title: [Lost Airlines](https://v3.globalgamejam.org/2021/games/lost-airlines-0)
 Your flight has been canceled, your bags will be lost!
 In this game you have to rescue your bagages at all costs.
 
